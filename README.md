@@ -278,7 +278,7 @@ NODE_ENV=development
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/Resolver.git
+git clone https://github.com/AkshayR278/Resolver.git
 cd Resolver
 ```
 
